@@ -20,7 +20,7 @@
 
 ## System Architecture
 
-<img width="3297" height="1169" alt="image" src="https://github.com/user-attachments/assets/d7869667-27c1-4c29-b8ec-e00ddc500b00" />
+<img width="3251" height="1169" alt="image" src="https://github.com/user-attachments/assets/215cccee-6c5b-4597-96af-5c8fbca8ac0a" />
 
 - 요청 흐름: `Client` → `Traefik (Reverse Proxy / TLS)` → `NestJS` → `RDS (PostgreSQL)`
 - 실시간 게임: `Client` ↔ `NestJS (Socket.IO WebSocket)`
