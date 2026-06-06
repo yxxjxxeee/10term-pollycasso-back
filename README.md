@@ -30,7 +30,7 @@
 ## ERD
 <img width="2973" height="1483" alt="폴리카소 (pollycasso)" src="https://github.com/user-attachments/assets/7c5c402e-946f-4045-8bee-36842746959c" />
 
-## 멤버
+## Members
 
 <table>
   <tr>
