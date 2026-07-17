@@ -97,4 +97,4 @@ Redis를 통해 친구의 온라인·오프라인 상태도 실시간으로 확�
 - 배포 흐름: `GitHub` → `GitHub Actions` → `Docker Hub` → `EC2 Self-hosted Runner` → `Docker Compose`
 - API 문서: Swagger 기반 REST API 문서 제공
 
-<img width="3776" height="2352" alt="pollycasso" src="https://github.com/user-attachments/assets/aa1fbce7-b0a3-4ddd-aa24-69d56934761f" />
+<img width="2106" height="1172" alt="pollycasso" src="https://github.com/user-attachments/assets/3af97fd6-db50-4d3c-8f3a-a42471bc7431" />
